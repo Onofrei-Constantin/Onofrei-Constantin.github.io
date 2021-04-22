@@ -70,6 +70,10 @@
   left: 15%;
 }
 
+.img-me:hover {
+  transform: scale(1.2);
+}
+
 .vertical-bar {
   height: 150%;
   background: black;
